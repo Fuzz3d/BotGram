@@ -1,3 +1,5 @@
 # BotGram
 
-Uso: python3 InstaBot.py
+```bash
+python3 InstaBot.py
+```
