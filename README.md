@@ -1,8 +1,8 @@
 # BotGram
 
 ```bash
-python3 InstaBot.py
-```
+Uso -> python3 InstaBot.py
+
 Funciones:
          {1}--Subir foto
          {2}--Guardar Stats de un usuario 
@@ -12,3 +12,4 @@ Funciones:
          {6}--Dejar de seguir usuarios que no te siguen 
          {7}--Enviar un mensaje
          {8}--Dejar de seguir a todos :)
+```
